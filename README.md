@@ -24,5 +24,5 @@ Este es un programa Java para convertir diversas divisas a pesos Chilenos (CLP).
 
 - **API Externa**
 
--ExchangeRate-API: Para obtener las tasas de cambio actualizadas.
+- ExchangeRate-API: Para obtener las tasas de cambio actualizadas.
 
