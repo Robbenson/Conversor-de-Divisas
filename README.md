@@ -17,7 +17,8 @@ Este es un programa Java para convertir diversas divisas a pesos Chilenos (CLP).
 
 ## Se Usó
 - **Librerías Externas**
-Google Gson: Para manejar la conversión de cadenas JSON a objetos Java.**
+Google Gson: Para manejar la conversión de cadenas JSON a objetos Java.
+
 Java HttpClient: Para realizar solicitudes HTTP y obtener las tasas de cambio actuales desde la API.
 
 - **API Externa**
