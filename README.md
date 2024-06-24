@@ -1,4 +1,4 @@
-# Conversor de Divisas a Pesos Chilenos
+9# Conversor de Divisas a Pesos Chilenos
 Este es un programa Java para convertir diversas divisas a pesos Chilenos (CLP). 
 
 ## Funcionalidades
@@ -17,10 +17,12 @@ Este es un programa Java para convertir diversas divisas a pesos Chilenos (CLP).
 
 ## Se Usó
 - **Librerías Externas**
-Google Gson: Para manejar la conversión de cadenas JSON a objetos Java.
 
-Java HttpClient: Para realizar solicitudes HTTP y obtener las tasas de cambio actuales desde la API.
+- Google Gson: Para manejar la conversión de cadenas JSON a objetos Java.
+
+- Java HttpClient: Para realizar solicitudes HTTP y obtener las tasas de cambio actuales desde la API.
 
 - **API Externa**
-ExchangeRate-API: Para obtener las tasas de cambio actualizadas.
+
+-ExchangeRate-API: Para obtener las tasas de cambio actualizadas.
 
